@@ -1,7 +1,7 @@
 import {extend} from 'flarum/extend';
 import app from 'flarum/app';
 import IndexPage from 'flarum/components/IndexPage';
-import Search from 'flarum/components/Search';
+import newDiscussion from 'flarum/components/newDiscussion';
 
 /* global m */
 
