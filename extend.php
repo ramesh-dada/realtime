@@ -1,6 +1,6 @@
 <?php
 
-namespace ClarkWinkelmann\MobileSearch;
+namespace ramesh\MobileDiscussionButton;
 
 use Flarum\Extend;
 
