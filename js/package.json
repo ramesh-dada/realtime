@@ -1,5 +1,5 @@
 {
-    "name": "@clarkwinkelmann/mobile-search",
+    "name": "@ramesh-dada/mobile-flarum-newdiscuss",
     "private": true,
     "dependencies": {
         "flarum-webpack-config": "^0.1.0-beta.10",
