@@ -1,7 +1,7 @@
 import {extend} from 'flarum/common/extend';
 import app from 'flarum/forum/app';
 import IndexPage from 'flarum/forum/components/IndexPage';
-import Button from flarum/common/components/Button
+import Button from 'flarum/common/components/Button';
 
 /* global m */
 const canStartDiscussion = app.forum.attribute('canStartDiscussion') || !app.session.user;
