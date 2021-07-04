@@ -1,10 +1,10 @@
-import {extend} from 'flarum/extend';
-import app from 'flarum/app';
-import IndexPage from 'flarum/components/IndexPage';
-import newDiscussion from 'flarum/components/newDiscussion';
+import {extend} from 'flarum/common/extend';
+import app from 'flarum/forum/app';
+import IndexPage from 'flarum/forum/components/IndexPage';
+import Button from flarum/common/components/Button
 
 /* global m */
-
+const canStartDiscussion = app.forum.attribute('canStartDiscussion') || !app.session.user;
 app.initializers.add('ramesh-dada-mobile-flarum-newdiscuss', () => {
     extend(IndexPage.prototype, 'viewItems', function (items) {
     items.add(
