@@ -6,8 +6,8 @@ import Button from 'flarum/common/components/Button';
 /* global m */
 
 app.initializers.add('ramesh-dada-mobile-flarum-newdiscuss', () => {
-    const canStartDiscussion = app.forum.attribute('canStartDiscussion') || !app.session.user;
     extend(IndexPage.prototype, 'viewItems', function (items) {
+            const canStartDiscussion = app.forum.attribute('canStartDiscussion') || !app.session.user;
     items.add(
       'newDiscussion',
       Button.component(
