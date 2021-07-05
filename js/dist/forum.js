@@ -125,10 +125,10 @@ __webpack_require__.r(__webpack_exports__);
 /* global m */
 
 flarum_forum_app__WEBPACK_IMPORTED_MODULE_1___default.a.initializers.add('ramesh-dada-mobile-flarum-newdiscuss', function () {
-  var canStartDiscussion = flarum_forum_app__WEBPACK_IMPORTED_MODULE_1___default.a.forum.attribute('canStartDiscussion') || !flarum_forum_app__WEBPACK_IMPORTED_MODULE_1___default.a.session.user;
   Object(flarum_common_extend__WEBPACK_IMPORTED_MODULE_0__["extend"])(flarum_forum_components_IndexPage__WEBPACK_IMPORTED_MODULE_2___default.a.prototype, 'viewItems', function (items) {
     var _this = this;
 
+    var canStartDiscussion = flarum_forum_app__WEBPACK_IMPORTED_MODULE_1___default.a.forum.attribute('canStartDiscussion') || !flarum_forum_app__WEBPACK_IMPORTED_MODULE_1___default.a.session.user;
     items.add('newDiscussion', flarum_common_components_Button__WEBPACK_IMPORTED_MODULE_3___default.a.component({
       icon: 'fas fa-edit',
       className: 'Button Button--primary IndexPage-newDiscussion',
