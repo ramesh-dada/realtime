@@ -14,7 +14,7 @@ app.initializers.add('ramesh-dada-mobile-flarum-newdiscuss', () => {
         {
           icon: 'fas fa-edit',
           className: 'Button Button--primary IndexPage-newDiscussion',
-          itemClassName: 'App-primaryControl',
+          itemClassName: 'DadaDiscuss',
           onclick: () => {
             // If the user is not logged in, the promise rejects, and a login modal shows up.
             // Since that's already handled, we dont need to show an error message in the console.
