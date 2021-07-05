@@ -25,7 +25,7 @@
             "title": "Mobile New Discussion on Homepage",
             "category": "theme",
             "icon": {
-                "name": "fas fa-search",
+                "name": "fas fa-edit",
                 "backgroundColor": "#684ba6",
                 "color": "#fff"
             }
