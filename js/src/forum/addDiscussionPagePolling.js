@@ -13,6 +13,6 @@ export default function () {
 
     extend(DiscussionPage.prototype, 'onremove', function () {
         // Clear timeout when user leaves the discussion
-        clearTimeout(this.pollingInterval);
+        clearInterval(this.pollingInterval);
     });
 }
