@@ -1,4 +1,4 @@
-![image](https://extiverse.com/extension/ramesh-dada/mobile-flarum-newdiscuss/open-graph-image)
+![image](https://extiverse.com/extension/ramesh-dada/realtime/open-graph-image)
 # Realtime Posts for Free Forever
 This Simple extension enables realtime posts without any third party service or without any server load.
 
@@ -12,7 +12,7 @@ This Simple extension enables realtime posts without any third party service or 
 `composer remove ramesh-dada/realtime`
 
 ### Links
-- [Discuss](https://discuss.flarum.org/d/27975)
+- [Discuss](https://discuss.flarum.org/d/28069)
 - [Extiverse](https://extiverse.com/extension/ramesh-dada/realtime)
 - [Github](https://github.com/ramesh-dada/realtime)
 - [Packagist](https://packagist.org/packages/ramesh-dada/realtime)
