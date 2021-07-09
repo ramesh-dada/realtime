@@ -20,6 +20,11 @@
         "issues": "https://github.com/ramesh-dada/realtime/issues",
         "source": "https://github.com/ramesh-dada/realtime"
     },
+    "autoload": {
+        "psr-4": {
+            "RameshDada\\Realtime\\": "src/"
+        }
+    },
     "extra": {
         "flarum-extension": {
             "title": "FREE Forever Realtime Posts",

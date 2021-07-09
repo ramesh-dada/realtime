@@ -8,7 +8,7 @@ export default function () {
             app.store.find('discussions', this.discussion.id()).then(() => {
                 this.stream.update().then(m.redraw);
             });
-        }, 2000);
+        }, app.forum.attribute('realtime.interval'));
     });
 
     extend(DiscussionPage.prototype, 'onremove', function () {
