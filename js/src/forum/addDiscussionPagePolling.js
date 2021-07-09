@@ -12,7 +12,7 @@ export default function () {
     });
 
     extend(DiscussionPage.prototype, 'onremove', function () {
-        // Clear timeout when user leaves the discussion
+        // Clear interval when user leaves the discussion
         clearInterval(this.pollingInterval);
     });
 }
