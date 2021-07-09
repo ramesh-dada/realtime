@@ -1,3 +1,4 @@
+import app from 'flarum/forum/app'
 import {extend} from 'flarum/common/extend';
 import app from 'flarum/forum/app';
 import PostStream from 'flarum/forum/components/PostStream';
