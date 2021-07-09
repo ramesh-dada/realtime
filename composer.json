@@ -1,6 +1,6 @@
 {
-    "name": "ramesh-dada/mobile-flarum-newdiscuss",
-    "description": "Move mobile new discussion button to Homepage",
+    "name": "ramesh-dada/realtime",
+    "description": "Realtime Posts with Jugaad",
     "keywords": [
         "flarum"
     ],
@@ -17,15 +17,15 @@
         }
     ],
     "support": {
-        "issues": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss/issues",
-        "source": "https://github.com/ramesh-dada/mobile-flarum-newdiscuss"
+        "issues": "https://github.com/ramesh-dada/realtime/issues",
+        "source": "https://github.com/ramesh-dada/realtime"
     },
     "extra": {
         "flarum-extension": {
             "title": "Mobile New Discussion on Homepage",
             "category": "theme",
             "icon": {
-                "name": "fas fa-edit",
+                "name": "fas fa-eye",
                 "backgroundColor": "#684ba6",
                 "color": "#fff"
             }
