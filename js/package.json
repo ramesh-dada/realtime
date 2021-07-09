@@ -1,5 +1,5 @@
 {
-    "name": "@ramesh-dada/mobile-flarum-newdiscuss",
+    "name": "@ramesh-dada/realtime",
     "private": true,
     "dependencies": {
         "flarum-webpack-config": "^0.1.0-beta.10",
