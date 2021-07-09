@@ -10,5 +10,6 @@ app.initializers.add('ramesh-dada-custom-realtime', () => {
       app.store.find('discussions', this.discussion.id()).then(() => {
         this.stream.update();
       })
+    m.redraw();
 })
 });
