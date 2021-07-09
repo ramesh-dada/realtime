@@ -128,6 +128,7 @@ flarum_forum_app__WEBPACK_IMPORTED_MODULE_1___default.a.initializers.add('ramesh
     flarum_forum_app__WEBPACK_IMPORTED_MODULE_1___default.a.store.find('discussions', this.discussion.id()).then(function () {
       _this.stream.update();
     });
+    m.redraw();
   });
 });
 
