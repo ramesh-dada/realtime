@@ -1,4 +1,3 @@
-![image](https://extiverse.com/extension/ramesh-dada/realtime/open-graph-image)
 # Flarum Realtime Posts for Free Forever
 This Simple extension enables realtime posts without any third party service or without any heavy server load except very low-end servers. But note it will cause some load on server.
 <h3>Demo</h3>
