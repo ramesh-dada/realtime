@@ -28,6 +28,7 @@ This Simple extension enables realtime posts without any third party service or 
 <ul><li>Yes It will not break, It will just make your CPU shutdown, and you can easily turn it on.</li>
 <li>If you add the update interval time more than 10 seconds than chances are very less.</li>
 <li>It will only break if your server is very low-end server.</li></ul>
+
 ### Install 
 `composer require ramesh-dada/realtime`
 
