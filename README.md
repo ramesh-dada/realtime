@@ -4,7 +4,7 @@ This Simple extension enables realtime posts without any third party service or 
 <h3>Demo</h3>
 <p>Click to watch the video.</p>
 
-![Flarum Realtime Posts for Free Forever](https://extiverse.com/extension/ramesh-dada/realtime/open-graph-image)](https://youtu.be/XqkG827XXEg)
+[![Flarum Realtime Posts for Free Forever](https://extiverse.com/extension/ramesh-dada/realtime/open-graph-image)](https://youtu.be/XqkG827XXEg)
 
 <h3>FAQ</h3>
 <h4>I dont know how it is for others, but all this pushers, websockets, real time thing, is a complete latest technology area. Im outdated person.</h4>
