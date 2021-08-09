@@ -1,8 +1,9 @@
 ![image](https://extiverse.com/extension/ramesh-dada/realtime/open-graph-image)
-# Realtime Posts for Free Forever
+# Flarum Realtime Posts for Free Forever
 This Simple extension enables realtime posts without any third party service or without any heavy server load except very low-end servers. But note it will cause some load on server.
 <h3>Demo</h3>
-<p><span data-s9e-mediaembed="youtube" style="display:inline-block;width:100%;max-width:640px"><span style="display:block;overflow:hidden;position:relative;padding-bottom:56.25%"><iframe allowfullscreen="" loading="lazy" scrolling="no" style="background:url(https://i.ytimg.com/vi/XqkG827XXEg/hqdefault.jpg) 50% 50% / cover;border:0;height:100%;left:0;position:absolute;width:100%" src="https://www.youtube.com/embed/XqkG827XXEg"></iframe></span></span></p>
+<p>Click image to watch the video.</p>
+[![Flarum Realtime Posts for Free Forever](https://extiverse.com/extension/ramesh-dada/realtime/open-graph-image)](https://youtu.be/XqkG827XXEg)
 <h3>FAQ</h3>
 <h4>I dont know how it is for others, but all this pushers, websockets, real time thing, is a complete latest technology area. Im outdated person.</h4>
 
