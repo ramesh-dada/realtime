@@ -28,7 +28,7 @@
     "extra": {
         "flarum-extension": {
             "title": "FREE Forever Realtime Posts",
-            "category": "theme",
+            "category": "feature",
             "icon": {
                 "name": "fas fa-eye",
                 "backgroundColor": "#684ba6",
